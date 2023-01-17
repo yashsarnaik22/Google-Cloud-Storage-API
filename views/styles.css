@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+.heading{
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+
+.btn{
+    background-color: green;
+}
+
+#publicurl{
+    color :blue;
+}
+
